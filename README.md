@@ -46,6 +46,8 @@ You can now view frontend in the browser.
   . Mutation: createUser, updateUser, deleteUser
 - Implement the resolvers for the Query and Mutation types.
 - Write a GraphQL query that retrieves all users from the database.
+- I want p.call : 1912465288
+If I send message via ipmsg,then after 30 mins call me this number
 
 How to run: 
 Install the required packages by following command in graphql repo: `npm install apollo-server graphql`
